@@ -20,7 +20,7 @@
 
 Word2Vec两种模型：
 
-![1712730344854](image/test/1712730344854.png "Word2Vec两种模型")
+![1712730344854](image/NLP/1712730344854.png "Word2Vec两种模型")
 
 # ELMo
 
